@@ -1,11 +1,21 @@
-# jobcopilot-ui
+![Jobcopilot UI](docs/banner.svg)
 
-Vite + React dashboard for **jobcopilot**. Kanban-style job pipeline, match
-scores with agent reasoning traces, and cover-letter drafts.
+# Jobcopilot UI
 
-- Vite · React 19 · TypeScript · Vitest
-- API: [jobcopilot](../jobcopilot) (FastAPI)
+[![CI](https://github.com/plucasr/jobcopilot-ui/actions/workflows/ci.yml/badge.svg)](https://github.com/plucasr/jobcopilot-ui/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+Vite + React dashboard for **jobcopilot** — kanban-style job pipeline, agent reasoning traces, and cover-letter drafts.
+
+## Features (planned)
+- Pipeline board (new / scored / applied)
+- Score badges with agent trace viewer
+- Letter drafts + daily digest view
+
+## Stack
+Vite · React 19 · TypeScript · Vitest
+
+## Related
+API: [jobcopilot](https://github.com/plucasr/jobcopilot)
 
 ## Status
-
-Scaffolded — see [TODO.md](TODO.md) for the 60-day build plan.
+Actively built over 60 days — see [TODO.md](TODO.md) for the traceable plan.
