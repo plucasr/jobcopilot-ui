@@ -4,7 +4,7 @@ Day 1 = 2026-11-06.
 
 ## Phase 1 — Foundations (day 1–14)
 - [ ] D1  Vite react-ts baseline, CI green
-- [ ] D2  Folder structure: components/, pages/, lib/api
+- [x] D2  Folder structure: components/, pages/, lib/api
 - [ ] D3  Design tokens: CSS variables, base layout
 - [ ] D4  Typed API client for jobcopilot (postings, scores, letters)
 - [ ] D5  Postings list page (fetch + render)
