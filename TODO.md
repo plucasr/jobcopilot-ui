@@ -6,8 +6,8 @@ Day 1 = 2026-11-06.
 - [ ] D1  Vite react-ts baseline, CI green
 - [x] D2  Folder structure: components/, pages/, lib/api
 - [x] D3  Design tokens: CSS variables, base layout
-- [ ] D4  Typed API client for jobcopilot (postings, scores, letters)
-- [ ] D5  Postings list page (fetch + render)
+- [x] D4  Typed API client for jobcopilot (postings, scores, letters)
+- [x] D5  Postings list page (fetch + render)
 - [ ] D6  Posting detail view
 - [ ] D7  Loading / error / empty states
 - [ ] D8  Env config (VITE_API_URL)
@@ -19,10 +19,10 @@ Day 1 = 2026-11-06.
 - [ ] D14 Phase 1 retro
 
 ## Phase 2 — Depth (day 15–40)
-- [ ] D15 Pipeline board (new / scored / applied columns) with dnd-kit
-- [ ] D16 Drag to change posting status (syncs to API)
-- [ ] D17 Score badge + tooltip with agent reasons
-- [ ] D18 Agent trace view: step-by-step reasoning per score
+- [x] D15 Pipeline board (new / scored / applied columns) with dnd-kit
+- [x] D16 Drag to change posting status (syncs to API)
+- [x] D17 Score badge + tooltip with agent reasons
+- [x] D18 Agent trace view: step-by-step reasoning per score
 - [ ] D19 Letter draft view (markdown render)
 - [ ] D20 Copy / regenerate letter actions
 - [ ] D21 Digest view: daily top matches
